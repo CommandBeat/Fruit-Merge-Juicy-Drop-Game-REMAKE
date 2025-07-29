@@ -1,0 +1,1 @@
+call FMJDGR/activate/start.bat
