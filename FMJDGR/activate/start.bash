@@ -1,0 +1,1 @@
+python3 "FMJDGR/game.py"
